@@ -1,0 +1,11 @@
+# Display
+name: HoloXP
+description: 'Displays holograms when killing mobs'
+author: PYRRH4
+website: www.pyrrh4.be
+# Techy
+version: 1.0.0
+api-version: 1.13
+main: be.pyrrh4.holoxp.HoloXP
+depend: [HolographicDisplays]
+softdepend: [MythicMobs]

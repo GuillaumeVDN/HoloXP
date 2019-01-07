@@ -1,0 +1,14 @@
+#----------------------------------------------------------------------------------------------------
+# Configuration file for HoloXP
+# All the options are configurable here
+#----------------------------------------------------------------------------------------------------
+
+# Time (in ticks) that the hologram will take to disappear
+# Default : 50 (2.5 seconds)
+hologram_disappear_ticks: 25
+
+# Texts
+texts:
+  hologram:
+    - '&2[{mob}&2] &a&l+{xp} XP'
+    - '&7&o({player})'
